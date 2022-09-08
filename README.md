@@ -1,6 +1,5 @@
 ### Hi there 👋
 I am Tasmiya Khan
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tasmiya-k&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Tasmiya-k" /> </p>
 
 <!--
 **Tasmiya-k/Tasmiya-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
