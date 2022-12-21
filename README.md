@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🚀  I'm currently learning ⚛ JAVA
+* 🚀  I'm currently learning Reactjs
 * 🤝  I'm open to collaborating on Interesting projects.
 
 ### Skills
