@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🚀  I'm currently working on Gen AI
+* 🚀  I'm currently working on ML & AI
 * 🤝  I'm open to collaborating on Interesting projects.
 
 ### Skills
